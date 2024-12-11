@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 updated from branch2 real
+=======
+update from branch1
+>>>>>>> 1c592969df7a6f5deec0a5df7e33a1e028bdeb2d
